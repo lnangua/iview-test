@@ -2,9 +2,9 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 import menuLeft from '../pages/menu/menuLeft'
-import login from '../pages/login/login'
-import dragAndDrop from '../pages/demo/dragAndDrop'
-import l10 from '../pages/menu/111'
+import login from '../pages/login/login.vue'
+//import dragAndDrop from '../pages/demo/dragAndDrop'
+//import l10 from '../pages/menu/111.vue'
 
 Vue.use(Router)
 
